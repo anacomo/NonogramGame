@@ -225,7 +225,7 @@ public:
 * Init statement for if/switch
 ```C++
 if (auto it = secondMap.find(j.first); it == secondMap.end())
-            {
-                return true;
-            }
+    {
+        return true;
+    }
 ```
